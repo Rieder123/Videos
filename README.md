@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="188ce7ad-eeb8-4f68-9f61-f44c3fcc8445" src="https://github.com/user-attachments/assets/9ecce7f5-06ab-401d-aa05-a632a8d8ea6e" />
 <img width="1055" height="1491" alt="02_Tipos_de_vacinas" src="https://github.com/user-attachments/assets/54e19c80-597c-4baa-85c5-3569415dcdd6" />
 <img width="1054" height="1492" alt="07_Difteria" src="https://github.com/user-attachments/assets/47d11742-2038-46a8-a683-f2dbeef7b578" />
 <img width="1054" height="1492" alt="08_Tetano" src="https://github.com/user-attachments/assets/cf502115-8d9e-4e51-bf59-be4585794c9a" />
